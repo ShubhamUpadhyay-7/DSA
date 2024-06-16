@@ -41,7 +41,8 @@ public class bRecursivePreOrderTraversal {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		bRecursivePreOrderTraversal test=new bRecursivePreOrderTraversal();
+		test.preOrder(test.root);
 	}
 
 }
